@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Abraham James
-- 👀 I’m interested in Software Engineering, Cloud DevOps
+## Hi, I’m Abraham James.
+I’m interested in Software Engineering, Cloud DevOps
 ### Skills
     - Angular
     - Javascript
